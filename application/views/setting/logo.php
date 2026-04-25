@@ -8,7 +8,7 @@
                 <div class="box box-primary">
                     <div class="box-body">
                         <div class="row">
-                            <div class="col-lg-3 col-md-6 col-sm-6">
+                            <div class="col-lg-4 col-md-6 col-sm-6">
                                 
                                 <div class="card-body-logo">
                                 <h4> <?php echo $this->lang->line('print_logo'); ?></h4> 
@@ -31,7 +31,7 @@
                                 </div>    
                             </div> 
 
-                            <div class="col-lg-3 col-md-6 col-sm-6">
+                            <div class="col-lg-4 col-md-6 col-sm-6">
                                 <div class="card-body-logo">
                                     <h4><?php echo $this->lang->line('admin_logo'); ?> </h4>
                                     <div class="text-center"> 
@@ -54,7 +54,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-lg-3 col-md-6 col-sm-6">
+                            <div class="col-lg-4 col-md-6 col-sm-6">
                                 
                                 <div class="card-body-logo">
                                 <h4><?php echo $this->lang->line('admin_small_logo'); ?></h4>   
@@ -78,7 +78,7 @@
                                 </div>
                             </div>
 
-                             <div class="col-lg-3 col-md-6 col-sm-6">
+                             <!-- <div class="col-lg-3 col-md-6 col-sm-6">
                                 
                                 <div class="card-body-logo">
                                 <h4><?php echo $this->lang->line('app_logo'); ?> </h4> 
@@ -100,7 +100,7 @@
                                     <a href="#schsetting" role="button" class="btn btn-primary btn-sm upload_app_logo"><?php echo $this->lang->line('update'); ?></a>    
                                     <a href="#app_logo" role="button" class="btn btn-primary btn-sm upload_app_logo" style="display: none" data-toggle="tooltip" title="<?php echo $this->lang->line('edit_app_logo'); ?>" data-loading-text="<i class='fa fa-circle-o-notch fa-spin'></i> <?php echo $this->lang->line('processing'); ?>"><i class="fa fa-picture-o"></i> <?php echo $this->lang->line('edit_app_logo'); ?></a>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>    
                 </div>    
